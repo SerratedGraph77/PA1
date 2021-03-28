@@ -3,7 +3,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-
+//hey
 int isProtocolValid(char*);
 int isDomainValid(char*);
 int findChar(char*, char, int);
